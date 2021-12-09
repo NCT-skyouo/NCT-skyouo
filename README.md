@@ -1,16 +1,33 @@
-### Hi there 👋
+### 您好!
 
-<!--
-**NCT-skyouo/NCT-skyouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+您好, 我是 `skyouo0727`, 一個常常幻想, 平凡的高職生,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+喜歡將自己在平時幻想的想法實做出來, 目前因這樣而產生的專案數不剩數.
+
+---
+
+### 專案?
+
+---
+
+因幻想而產生的專案:
+
+- [Kristen](https://github.com/NCT-skyouo/skyouo-s-music-bot)
+- [OpenRythm](https://github.com/NCT-skyouo/OpenRythm)
+- [Brilliant](https://github.com/NCT-skyouo/Brilliant)
+
+---
+
+### 更多?
+
+---
+
+想了解我的日常生活? 我的喜好?
+
+那就立刻點下去吧!
+
+**! [施工中](https://skyouo.engineer) !**
+
+---
