@@ -30,10 +30,6 @@
 
 ---
 
-想了解我的日常生活? 我的喜好?
-
-那就立刻點下去吧!
-
-**! [施工中](https://skyouo.engineer) !**
+https://blogs.skyouo.engineer/
 
 ---
