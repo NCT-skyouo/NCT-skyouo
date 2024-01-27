@@ -1,5 +1,3 @@
-$OutputEncoding = [System.Text.Encoding]::UTF8
-
 Write-Host "   <3<3      <3<3" -ForegroundColor red
 Write-Host "  <3<3<3    <3<3<3" -ForegroundColor red
 
